@@ -1,0 +1,17 @@
+.idea/
+
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# Other files and folders
+.settings/
+src/__pycache__/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
